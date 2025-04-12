@@ -1,0 +1,7 @@
+C:\Users\paul.silva\Documents\Ejercicios C#\Semana3-1\cuestionario4\bin\Debug\cuestionario4.exe.config
+C:\Users\paul.silva\Documents\Ejercicios C#\Semana3-1\cuestionario4\bin\Debug\cuestionario4.exe
+C:\Users\paul.silva\Documents\Ejercicios C#\Semana3-1\cuestionario4\bin\Debug\cuestionario4.pdb
+C:\Users\paul.silva\Documents\Ejercicios C#\Semana3-1\cuestionario4\obj\Debug\cuestionario4.csproj.AssemblyReference.cache
+C:\Users\paul.silva\Documents\Ejercicios C#\Semana3-1\cuestionario4\obj\Debug\cuestionario4.csproj.CoreCompileInputs.cache
+C:\Users\paul.silva\Documents\Ejercicios C#\Semana3-1\cuestionario4\obj\Debug\cuestionario4.exe
+C:\Users\paul.silva\Documents\Ejercicios C#\Semana3-1\cuestionario4\obj\Debug\cuestionario4.pdb

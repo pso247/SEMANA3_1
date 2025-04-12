@@ -1,0 +1,7 @@
+C:\Users\paul.silva\Documents\Ejercicios C#\Semana3-1\Semana3-1\bin\Debug\Semana3-1.exe.config
+C:\Users\paul.silva\Documents\Ejercicios C#\Semana3-1\Semana3-1\bin\Debug\Semana3-1.exe
+C:\Users\paul.silva\Documents\Ejercicios C#\Semana3-1\Semana3-1\bin\Debug\Semana3-1.pdb
+C:\Users\paul.silva\Documents\Ejercicios C#\Semana3-1\Semana3-1\obj\Debug\Semana3-1.csproj.AssemblyReference.cache
+C:\Users\paul.silva\Documents\Ejercicios C#\Semana3-1\Semana3-1\obj\Debug\Semana3-1.csproj.CoreCompileInputs.cache
+C:\Users\paul.silva\Documents\Ejercicios C#\Semana3-1\Semana3-1\obj\Debug\Semana3-1.exe
+C:\Users\paul.silva\Documents\Ejercicios C#\Semana3-1\Semana3-1\obj\Debug\Semana3-1.pdb

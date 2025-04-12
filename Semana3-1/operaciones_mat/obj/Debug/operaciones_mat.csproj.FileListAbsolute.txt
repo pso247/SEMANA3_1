@@ -1,0 +1,7 @@
+C:\Users\paul.silva\Documents\Ejercicios C#\Semana3-1\operaciones_mat\bin\Debug\operaciones_mat.exe.config
+C:\Users\paul.silva\Documents\Ejercicios C#\Semana3-1\operaciones_mat\bin\Debug\operaciones_mat.exe
+C:\Users\paul.silva\Documents\Ejercicios C#\Semana3-1\operaciones_mat\bin\Debug\operaciones_mat.pdb
+C:\Users\paul.silva\Documents\Ejercicios C#\Semana3-1\operaciones_mat\obj\Debug\operaciones_mat.csproj.AssemblyReference.cache
+C:\Users\paul.silva\Documents\Ejercicios C#\Semana3-1\operaciones_mat\obj\Debug\operaciones_mat.csproj.CoreCompileInputs.cache
+C:\Users\paul.silva\Documents\Ejercicios C#\Semana3-1\operaciones_mat\obj\Debug\operaciones_mat.exe
+C:\Users\paul.silva\Documents\Ejercicios C#\Semana3-1\operaciones_mat\obj\Debug\operaciones_mat.pdb

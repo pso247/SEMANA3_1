@@ -1,0 +1,7 @@
+C:\Users\paul.silva\Documents\Ejercicios C#\Semana3-1\cuestionario2\bin\Debug\cuestionario2.exe.config
+C:\Users\paul.silva\Documents\Ejercicios C#\Semana3-1\cuestionario2\bin\Debug\cuestionario2.exe
+C:\Users\paul.silva\Documents\Ejercicios C#\Semana3-1\cuestionario2\bin\Debug\cuestionario2.pdb
+C:\Users\paul.silva\Documents\Ejercicios C#\Semana3-1\cuestionario2\obj\Debug\cuestionario2.csproj.AssemblyReference.cache
+C:\Users\paul.silva\Documents\Ejercicios C#\Semana3-1\cuestionario2\obj\Debug\cuestionario2.csproj.CoreCompileInputs.cache
+C:\Users\paul.silva\Documents\Ejercicios C#\Semana3-1\cuestionario2\obj\Debug\cuestionario2.exe
+C:\Users\paul.silva\Documents\Ejercicios C#\Semana3-1\cuestionario2\obj\Debug\cuestionario2.pdb
